@@ -2,7 +2,7 @@
   id: Conspirator
   name: roles-antag-conspirator-name
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-conspirator-objective
   guides: [ Conspirators ]
   requirements:

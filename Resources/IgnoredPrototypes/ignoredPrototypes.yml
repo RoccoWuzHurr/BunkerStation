@@ -18,55 +18,39 @@
 # NTR CONFIG = Resources/Prototypes/_Goobstation/Roles/Jobs/Dignitary/nanotrasen_representative.yml
 
 
+# ANTAGS
 
+#requirements:
+#- !type:OverallPlaytimeRequirement
+#  time: 1000h  #I don't know how to disable it otherwise
 
+#Resources/Prototypes/_DV/Roles/Antags/asakim.yml
+#Resources/Prototypes/_DV/Roles/Antags/ntAgent.yml
+#Resources/Prototypes/_EinsteinEngines/Shadowling/Roles/Antags/shadowling.yml
+#Resources/Prototypes/_Goobstation/Changeling/Roles/Antags/changeling.yml
+#Resources/Prototypes/_Goobstation/GangWars/Roles/antags.yml
+#Resources/Prototypes/_Goobstation/Heretic/Roles/Antags/heretic.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/blob.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/devil.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/generic.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/hermitmidround.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/slasher.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/traitor.yml
+#Resources/Prototypes/_Goobstation/Roles/Antags/xenomorph.yml
 
+#Resources/Prototypes/_Harmony/Roles/Antags/conspirator.yml
 
+#Resources/Prototypes/_Omu/Roles/Antags/chimera.yml
 
+#Resources/Prototypes/_Shitmed/Roles/Antags/abductor.yml
 
+#Resources/Prototypes/_StarLight/Roles/Antags/self.yml
 
-
-
-
-## AA REMOVAL
-#
-##- /Prototypes/_DV/Entities/Markers/Spawners/jobs.yml
-#- /Prototypes/_DV/Loadouts/Jobs/Command/administrative_assistant.yml
-#- /Prototypes/_DV/Loadouts/loadout_groups.yml
-#- /Prototypes/_DV/Loadouts/role_loadouts.yml
-##- /Prototypes/_DV/Roles/Jobs/Command/administrative_assistant.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Command/administrative_assistant.yml
-#
-#
-## /Prototypes/_DV/QuickPhrases/jobs.yml contains a commented out mention of AA.
-#
-## CC REMOVAL
-## NTR can stay but will be disabled for now. CCO sounds fun to larp as so I'm gonna keep dat
-#
-#- /Prototypes/_Goobstation/Loadouts/Jobs/Dignitary/blueshield_officer.yml
-#- /Prototypes/_Goobstation/Loadouts/Jobs/Dignitary/nanotrasen_trainer.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Dignitary/blueshield_officer.yml
-#
-## /Prototypes/_Goobstation/Entities/Markers/Spawners/jobs.yml removes spawn markers for BSO and NCT.
-#
-## MENTOR REMOVALS
-#
-#- /Prototypes/_Omu/Loadouts/Jobs/Engineering/foreman.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Cargo/bosun.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Medical/medicus.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Science/professor.yml
-#- /Prototypes/_Omu/Loadouts/Jobs/Security/sergeant.yml
-#
-#- /Prototypes/_Omu/Roles/Jobs/Engineering/foreman.yml
-#- /Prototypes/_Omu/Roles/Jobs/Medical/medicus.yml
-#- /Prototypes/_Omu/Roles/Jobs/Science/professor.yml
-#- /Prototypes/_Omu/Roles/Jobs/Security/sergeant.yml
-#- /Prototypes/_Omu/Roles/Jobs/Cargo/bosun.yml
-#
-## /Prototypes/_Omu/Roles/play_time_trackers.yml has mentor timers
-## /Prototypes/_Omu/Loadouts/role_loadouts.yml has mentor loadouts
-## /Prototypes/_Omu/Entities/Markers/Spawners/jobs.yml contains spawn markers for mentors
-#
-## OTHER REMOVALS
-#- /Prototypes/_Lavaland/Roles/Jobs/Cargo/shaft_miner.yml
-#- /Prototypes/_Lavaland/Roles/play_time_trackers.yml
+#Resources/Prototypes/Roles/Antags/nukeops.yml # NUKIES!!!!!!!!!!!!!!
+#Resources/Prototypes/Roles/Antags/paradoxClone.yml # these guys are so funny they can be here
+#Resources/Prototypes/Roles/Antags/revolutionary.yml
+#Resources/Prototypes/Roles/Antags/thief.yml # These guys are up next.
+#Resources/Prototypes/Roles/Antags/traitor.yml # naturally, only antag at first
+#Resources/Prototypes/Roles/Antags/wizard.yml
+#Resources/Prototypes/Roles/Antags/xenoborgs.yml
+#Resources/Prototypes/Roles/Antags/zombie.yml # should still exist as a result of syndies

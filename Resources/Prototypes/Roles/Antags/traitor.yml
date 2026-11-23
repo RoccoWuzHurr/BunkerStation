@@ -6,9 +6,9 @@
   antagonist: true
   setPreference: true
   objective: roles-antag-syndicate-agent-objective
-  requirements:
-  - !type:OverallPlaytimeRequirement
-    time: 18000 # 5 hours - OmuStation
+  #requirements:
+  #- !type:OverallPlaytimeRequirement
+  #  time: 18000 # 5 hours - OmuStation
   guides: [ Traitors ]
 
 - type: antag
@@ -17,9 +17,9 @@
   antagonist: true
   setPreference: true
   objective: roles-antag-syndicate-agent-sleeper-objective
-  requirements:
-  - !type:OverallPlaytimeRequirement
-    time: 18000 # 5 hours - OmuStation
+  #requirements:
+  #- !type:OverallPlaytimeRequirement
+  #  time: 18000 # 5 hours - OmuStation
   guides: [ Traitors ]
 
 # Syndicate Operative Outfit - Monkey

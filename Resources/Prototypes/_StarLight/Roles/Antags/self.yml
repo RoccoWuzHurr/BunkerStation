@@ -2,7 +2,7 @@
   id: SELFAgent
   name: roles-antag-selfagent-name
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-selfagent-description
   guides: [ SELFAgent ]
   #roleLoadout: [ SELFAgentGear ] #TODO commenting out for now, I may add like, a hat or protest signs for SELF later locked in loadouts behind playtime

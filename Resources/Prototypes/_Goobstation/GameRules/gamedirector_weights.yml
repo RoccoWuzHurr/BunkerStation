@@ -1,19 +1,19 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- type: weightedRandom
+- type: weightedRandom # needs to be edited! sad!
   id: GameDirector
   weights:
-    Traitor: 0.25
-    Changeling: 0.10
-    Nukeops: 0.05
+    Traitor: 1 # always syndies...
+    Changeling: 0
+    Nukeops: 0
     #Revolutionary: 0.05
-    Zombie: 0.04
-    Heretic: 0.11
-    BlobGameMode: 0.05
-    Wizard: 0.025
-    CosmicCult: 0.05 # make it semi often so we can test it
-    Conspirators: 0.2 #OMU added, make it fairly commmon so we can test it and get feedback
-    Honkops: 0.01
+    Zombie: 0
+    Heretic: 0
+    BlobGameMode: 0
+    Wizard: 0
+    CosmicCult: 0 # make it semi often so we can test it
+    Conspirators: 0 #OMU added, make it fairly commmon so we can test it and get feedback
+    Honkops: 0
 
 
 - type: incompatibleModes

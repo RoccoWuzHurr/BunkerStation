@@ -29,7 +29,7 @@
   id: SleeperDevil
   name: roles-antag-devilmidround-name
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-devil-description
   guides: [ Devil ]
   requirements:

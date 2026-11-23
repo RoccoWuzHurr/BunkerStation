@@ -3,6 +3,7 @@
   name: roles-antag-asakim-name
   objective: roles-antag-asakim-objective
   antagonist: true
+  setPreference: false
   requirements:
   - !type:OverallPlaytimeRequirement
     time: 86400 # 24 hours, same reasoning as SRN

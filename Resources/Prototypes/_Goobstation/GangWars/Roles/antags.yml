@@ -2,7 +2,7 @@
   id: GangLeader
   name: roles-antag-gang-leader-name
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-gang-leader-objective
   requirements:
   - !type:DepartmentTimeRequirement

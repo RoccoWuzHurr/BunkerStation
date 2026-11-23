@@ -5,7 +5,7 @@
   id: TraitorMidround
   components:
   - type: StationEvent
-    earliestStart: 30
+    earliestStart: 20
     weight: 8
     minimumPlayers: 15
     maxOccurrences: 3 #Omu change from 1 - better traitors than 5 lings
@@ -71,7 +71,7 @@
   id: BlobMidround
   components:
   - type: StationEvent
-    weight: 1.5       #omu
+    weight: 0       #omu #disabled
     earliestStart: 80 #omu
     minimumPlayers: 100 # OMU change - removes from valid event pool
     duration: null
@@ -97,7 +97,7 @@
   id: FloorGoblinMidRound
   components:
   - type: StationEvent
-    weight: 15
+    weight: 0   # if ucking hate floor goblins.
     earliestStart: 15
     minimumPlayers: 15
     maxOccurrences: 2

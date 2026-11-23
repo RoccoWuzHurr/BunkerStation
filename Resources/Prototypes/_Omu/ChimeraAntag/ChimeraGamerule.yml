@@ -34,7 +34,7 @@
   id: LetoferolSleeper
   name: Letoferol Sleeper
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-Chimera-objective
   requirements:
   - !type:SpeciesRequirement

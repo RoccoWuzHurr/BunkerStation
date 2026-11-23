@@ -2,6 +2,7 @@
   id: Survivor
   name: roles-antag-survivor-name
   antagonist: true
+  setPreference: false
   objective: roles-antag-survivor-objective
   # guides: [  ]
 

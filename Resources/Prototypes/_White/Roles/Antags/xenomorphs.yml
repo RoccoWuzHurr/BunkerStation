@@ -3,3 +3,6 @@
   name: roles-antag-xenomorph-name
   antagonist: true
   objective: roles-antag-xenomorph-objective
+  requirements:
+  - !type:OverallPlaytimeRequirement
+    time: 1000h  #I don't know how to disable it otherwise

@@ -2,7 +2,7 @@
   id: NTAgent
   name: NTAgent-round-end-name
   antagonist: true
-  setPreference: true
+  setPreference: false
   objective: roles-antag-NT-agent-objective
   guides: [ NTAgent ] # Omu
   requirements:

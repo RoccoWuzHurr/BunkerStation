@@ -4,6 +4,9 @@
   antagonist: true
   setPreference: false
   objective: roles-antag-Chimera-objective
+  requirements:
+  - !type:OverallPlaytimeRequirement
+    time: 1000h  #I don't know how to disable it otherwise 
   guides: [ Letoferol ]
 
 - type: entity
