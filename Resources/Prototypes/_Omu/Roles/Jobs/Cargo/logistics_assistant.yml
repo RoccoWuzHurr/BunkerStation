@@ -5,9 +5,9 @@
   name: job-name-logistics-assistant
   description: job-description-logistics-assistant
   playTimeTracker: JobLogisticsAssistant
-  requirements:
-  - !type:OverallPlaytimeRequirement
-    time: 0.5h # Omustation
+  #requirements:
+  #- !type:OverallPlaytimeRequirement
+  #  time: 0.5h # Omustation
   startingGear: LogisticsAssistantGear
   icon: "JobIconLogisticsAssistant"
   supervisors: job-supervisors-cargo

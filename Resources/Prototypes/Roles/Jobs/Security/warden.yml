@@ -8,19 +8,19 @@
   requirements:
     - !type:RoleTimeRequirement
       role: JobSecurityOfficer
-      time: 5h
-    - !type:RoleTimeRequirement # Goobstation
-      role: JobBrigmedic
-      time: 5h
-    - !type:DepartmentTimeRequirement
-      department: Security
-      time: 15h #15 hours - Omu edit end: Earn your thankless spot.
+      time: 1.5h
+    #- !type:RoleTimeRequirement # Goobstation
+    #  role: JobBrigmedic
+    #  time: 5h
+    #- !type:DepartmentTimeRequirement
+    #  department: Security
+    #  time: 15h #15 hours - Omu edit end: Earn your thankless spot.
 #    - !type:SpeciesRequirement # Goob - None Felinid
 #      inverted: true
 #      species:
 #      - Felinid #Omu, add back Felinid
-    - !type:OverallPlaytimeRequirement
-      time: 10h #10 hours - Omu Edit
+  #  - !type:OverallPlaytimeRequirement
+  #    time: 10h #10 hours - Omu Edit
   weight: 5
   startingGear: WardenGear
   icon: "JobIconWarden"

@@ -5,9 +5,9 @@
   name: job-name-research-assistant
   description: job-description-research-assistant
   playTimeTracker: JobResearchAssistant
-  requirements:
-    - !type:OverallPlaytimeRequirement
-      time: 0.5h # 30 Minutes # Omu edit start - Play a single shift as passenger first
+  #requirements:
+  #  - !type:OverallPlaytimeRequirement
+  #    time: 0.5h # 30 Minutes # Omu edit start - Play a single shift as passenger first
     #- !type:DepartmentTimeRequirement  # Sometimes you haven't played a department in a while :shrug:
     #  department: Science
     #  time: 36000 #10 hours
