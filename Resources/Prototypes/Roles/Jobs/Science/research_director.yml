@@ -6,21 +6,21 @@
   description: job-description-rd
   playTimeTracker: JobResearchDirector
   requirements:
-  - !type:RoleTimeRequirement
-    role: JobBorg
-    time: 5h #5 hrs - Omu Edit
+  #- !type:RoleTimeRequirement
+  #  role: JobBorg
+  #  time: 5h #5 hrs - Omu Edit
   - !type:RoleTimeRequirement
     role: JobScientist
-    time: 10h # Omustation
+    time: 2h # Omustation
   - !type:DepartmentTimeRequirement
     department: Science
-    time: 20h #20 hours - Omu Edit
+    time: 4h #20 hours - Omu Edit
 #    - !type:SpeciesRequirement # Goob - None Felinid
 #      inverted: true
 #      species:
 #      - Felinid #Omu, add back Felinid
-  - !type:OverallPlaytimeRequirement
-    time: 10h #10 hours - Omu Edit
+  #- !type:OverallPlaytimeRequirement
+ #   time: 10h #10 hours - Omu Edit
   weight: 10
   startingGear: ResearchDirectorGear
   icon: "JobIconResearchDirector"

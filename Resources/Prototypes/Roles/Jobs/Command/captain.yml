@@ -8,21 +8,21 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Engineering
-      time: 4h
+      time: 1h
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 4h
+      time: 1h
     - !type:DepartmentTimeRequirement
       department: Science
-      time: 4h
+      time: 1h
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 6h # Goobstation
+      time: 2h # Goobstation
     - !type:DepartmentTimeRequirement
       department: Command
-      time: 20h # Omu
-    - !type:OverallPlaytimeRequirement # Omu
-      time: 40h # Omu Edit - Not technically needed, but it helps since time transfered people still need to play shifts before captaining.
+      time: 4h # Omu
+    #- !type:OverallPlaytimeRequirement # Omu
+    #  time: 40h # Omu Edit - Not technically needed, but it helps since time transfered people still need to play shifts before captaining.
       #- !type:SpeciesRequirement # Goob - None Felinid
     #  inverted: true
     #  species:

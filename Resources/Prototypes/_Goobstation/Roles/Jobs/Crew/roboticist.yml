@@ -3,13 +3,13 @@
   name: job-name-roboticist
   description: job-description-roboticist
   playTimeTracker: JobRoboticist
-  requirements:
-    - !type:RoleTimeRequirement
-      role: JobBorg
-      time: 9000 #2.5 hrs - Omu Edit
-    - !type:DepartmentTimeRequirement
-      department: Science
-      time: 14400 #4 hrs
+#  requirements:
+##    - !type:RoleTimeRequirement
+##      role: JobBorg
+##      time: 1.5h #2.5 hrs - Omu Edit
+#    - !type:DepartmentTimeRequirement
+#      department: Science
+#      time: 1.5h #4 hrs
   startingGear: RoboticistGear
   icon: "JobIconRoboticist"
   supervisors: job-supervisors-rd

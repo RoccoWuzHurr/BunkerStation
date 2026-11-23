@@ -5,9 +5,9 @@
   playTimeTracker: JobCourier
   overrideConsoleVisibility: true
   requirements:
-  - !type:DepartmentTimeRequirement
-    department: Cargo
-    time: 9000 # = 2.5 hours
+  #- !type:DepartmentTimeRequirement
+  #  department: Cargo
+  #  time: 9000 # = 2.5 hours
   guides: # goobstation
   - CourierSOP
   - Cargo

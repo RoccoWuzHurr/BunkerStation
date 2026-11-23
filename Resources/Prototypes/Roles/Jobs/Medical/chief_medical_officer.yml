@@ -8,19 +8,19 @@
   requirements:
     - !type:RoleTimeRequirement
       role: JobChemist
-      time: 15h # Omustation
+      time: 2h # Omustation
     - !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 10h # Omustation
+      time: 1h # Omustation
     - !type:RoleTimeRequirement
       role: JobParamedic
-      time: 2.5h # Omustation
+      time: 1h # Omustation
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 10h
-    - !type:DepartmentTimeRequirement
-      department: Medical
-      time: 20h # Omustation
+      time: 5h
+    #- !type:DepartmentTimeRequirement
+   #   department: Medical
+  #    time: 20h # Omustation
     #- !type:SpeciesRequirement # Goob - None Felinid - # Omustation
     #  inverted: true
     #  species:
